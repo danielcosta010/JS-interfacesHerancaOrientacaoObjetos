@@ -24,3 +24,5 @@ console.log(contaPoupanca);
 console.log(contaCorrenteDaniel);
 
 console.log(contaSalario);
+
+console.log(ContaCorrente.numeroDeContas);
