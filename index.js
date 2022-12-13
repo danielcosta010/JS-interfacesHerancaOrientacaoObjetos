@@ -17,7 +17,9 @@ const clienteEstaLogado = SistemaAutenticacao.login(cliente, 456);
 
 
 console.log(diretorEstaLogado, gerenteEstaLogado, clienteEstaLogado);
-console.log(gerenteEstaLogado);
+
+
+
 
 /* import {ContaCorrente} from "./Conta/ContaCorrente.js";
 import { ContaPoupanca } from "./Conta/ContaPoupanca.js";
